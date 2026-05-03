@@ -64,7 +64,12 @@ It focuses on helping citizens navigate the voting process through AI-driven gui
 *Best viewed on desktop for full map + chat experience*
 
 ---
+🗳️ Country-Specific Voting Simulations Each country gets a unique, realistic voting experience:
 
+-🇮🇳 India — Electronic Voting Machine (EVM) with authentic BEEP sound
+-🇦🇺 Australia — Preferential ranking ballot (number 1, 2, 3)
+-🇺🇸 USA — Paper ballot with write-in candidate option
+-🇫🇷 France — Two-round envelope system with paper rustle sound
 
 ## ✨ Features
 
